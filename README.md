@@ -9,4 +9,10 @@
 ### Day 2
 **Today’s progress:** Today I worked through another Code Academy lesson today. I learned about ordered lists, unordered lists, adding photos, videos and links
  
-**Thoughts:** IThings are started to come back to me! Woot! I'm looking forward to getting through these basics so I can get to the fun part -- design. 
+**Thoughts:** Things are started to come back to me! Woot! I'm looking forward to getting through these basics so I can get to the fun part -- design. 
+
+### Day 3
+**Today’s progress:** Today I worked through some navigation stuff. 
+ 
+**Thoughts:** Today was spent traveling from Iowa, so I didn't get through as much code as the previous two days.  
+
