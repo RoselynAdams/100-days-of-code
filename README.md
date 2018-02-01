@@ -25,3 +25,8 @@
 **Today’s progress:** Day's lessons were all about styling, including text, color, margin, padding and border. 
 
 **Thoughts:** Today's lessons were a little bit dense. Although this is the fun part for me, the design of a webage, I'm chomping at the bit to get into more independ work. I think I might skip ahead a bit and start on the first project for Free Code Camp, which is to create a tribute page.  
+
+### Day 10
+**Today’s progress:** Today I learned a bit about the heirarchy of styles, ie, classes, ids, inlines styles and !important!
+
+**Thoughts:** Today I learned about how different classes and ids override one another. It was helpful to learn how each is read. I can also see this coming in handy when I'm coding and don't know why something looks the way it does or when I want to override a style from a CSS library. 
