@@ -30,3 +30,8 @@
 **Today’s progress:** Today I learned a bit about the heirarchy of styles, ie, classes, ids, inlines styles and !important!
 
 **Thoughts:** Today I learned about how different classes and ids override one another. It was helpful to learn how each is read. I can also see this coming in handy when I'm coding and don't know why something looks the way it does or when I want to override a style from a CSS library. 
+
+### Day 12
+**Today’s progress:** Sorry code, you didn't get much of my time today. 
+
+**Thoughts:** I got to work with hex color today, which I've been waiting/wanting to do since day one! 
