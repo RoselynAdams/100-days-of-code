@@ -31,7 +31,8 @@
 
 **Thoughts:** Today I learned about how different classes and ids override one another. It was helpful to learn how each is read. I can also see this coming in handy when I'm coding and don't know why something looks the way it does or when I want to override a style from a CSS library. 
 
-### Day 12
-**Today’s progress:** Sorry code, you didn't get much of my time today. 
 
-**Thoughts:** I got to work with hex color today, which I've been waiting/wanting to do since day one! 
+### Day 12
+**Today’s progress:** I started to work on responsive desing today. Trucking right along!
+
+**Thoughts:** I started the resposive design with boostrap section of Free Code Camp today. I centered text, made images mobile-responsive, added buttons and styled them for days. I'm definitely starting to feel more confident with writing code from scratch when prompted. Baby steps!
