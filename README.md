@@ -36,3 +36,6 @@
 **Today’s progress:** I started to work on responsive desing today. Trucking right along!
 
 **Thoughts:** I started the resposive design with boostrap section of Free Code Camp today. I centered text, made images mobile-responsive, added buttons and styled them for days. I'm definitely starting to feel more confident with writing code from scratch when prompted. Baby steps!
+
+### Day ??
+**Thoughts:** Hello again, code! I've decided to get back on the horse! I know I definitely failed at the the 100 days of code, but I still want to be coding and learning more. So, I'm going to try not to feel discouraged and contintue working my way through freecodecamp. I'm not ready to commit to 100 days, but I think a few days a week is a good goal for me. 
